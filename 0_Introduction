@@ -2,6 +2,7 @@ Introducción a git
 Git es un sistema de control de versiones distribuido que se diferencia del resto en el modo en que modela sus datos. La mayoría de los demás sistemas almacenan la información 
 como una lista de cambios en los archivos, mientras que Git modela sus datos más como un conjunto de instantáneas de un mini sistema de archivos.
 https://aulasoftwarelibre.github.io/taller-de-git/images/distribuido-tradicional.png
+https://github.com/dydiervargas/Git_Foundations_TechDev/blob/master/distribuido-git.png
 https://aulasoftwarelibre.github.io/taller-de-git/images/distribuido-git.png
 Los tres estados
 Git tiene tres estados principales en los que se pueden encontrar tus archivos: confirmado (committed), modificado (modified), y preparado (staged). Confirmado significa que los 
